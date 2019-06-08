@@ -4,5 +4,11 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 Highlights
 -----
 
++ Learnt about hot reload and hot restart, the differences as well as when to use each
++ Container widget, properties and uses
++ Column and Row, properties and uses
++ A challenge to come apply column and row knowledge to create a copy of a layout (challenge branch)
+
 Screenshots
 -----
+<img src='screenshots/challenge-iphone.png' width='350'>
