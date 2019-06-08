@@ -8,6 +8,8 @@ Highlights
 + Container widget, properties and uses
 + Column and Row, properties and uses
 + A challenge to come apply column and row knowledge to create a copy of a layout (challenge branch)
++ Widgets and more widgets!!!
++ Custom Fonts (Google fonts specifically)
 
 Screenshots
 -----
