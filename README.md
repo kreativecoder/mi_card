@@ -10,6 +10,7 @@ Highlights
 + A challenge to come apply column and row knowledge to create a copy of a layout (challenge branch)
 + Widgets and more widgets!!!
 + Custom Fonts (Google fonts specifically)
++ Icons
 
 Screenshots
 -----
